@@ -1,15 +1,16 @@
 Olá Eu sou Aldecir Peixoto!! </br>
 Conheça um pouco mais dos meus projetos visitando meu portfolio </br>
-<div align="center">
+<div>
   👉👉<a href="https://aldecirpeixoto.tech/" target="_blank">Aqui</a>👈👈
 </div>
 </br>
 
 ![Kittinan's github stats](https://github-readme-stats.vercel.app/api?username=AldecirMaia&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=aldecirmaia&layout=compact&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
-<div align="center" style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Aldecir-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Aldecir-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Aldecir-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -20,7 +21,7 @@ Conheça um pouco mais dos meus projetos visitando meu portfolio </br>
   <img align="center" alt="Aldecir-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
 </div>
 
-<div align="center">
+<div>
 </br>
 </br>
   <a href="https://www.instagram.com/aldecirpeixoto/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
