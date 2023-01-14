@@ -3,11 +3,6 @@ Conheça um pouco mais dos meus projetos visitando meu portfolio </br>
 <div>
   👉👉<a href="https://aldecirpeixoto.tech/" target="_blank">Aqui</a>👈👈
 </div>
-</br>
-
-![Kittinan's github stats](https://github-readme-stats.vercel.app/api?username=AldecirMaia&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=aldecirmaia&layout=compact&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
 <div style="display: inline_block"><br>
