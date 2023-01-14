@@ -1,7 +1,7 @@
 Olá Eu sou Aldecir Peixoto!! </br>
 Conheça um pouco mais dos meus projetos visitando meu portfolio </br>
 <div align="center">
-👉👉<a href="https://aldecirpeixoto.tech/" target="_blank">Aqui👈👈
+  👉👉<a href="https://aldecirpeixoto.tech/" target="_blank">Aqui</a>👈👈
 </div>
 </br>
 
